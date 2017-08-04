@@ -1,3 +1,5 @@
+print "ex1.py\n"
+
 print "Hello world!"
 print "Hello Again"
 print "I like typing this."

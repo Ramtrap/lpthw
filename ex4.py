@@ -1,3 +1,5 @@
+print "ex4.py\n"
+
 cars = 100
 space_in_a_car = 5.0
 drivers = 30
