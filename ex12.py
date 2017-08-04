@@ -9,3 +9,4 @@ print "So, you're %r old, %r tall and %r heavy." % (
 
 print "To read how functions work, type: \"pydoc raw_input\", for example"
 print "To get out of it, type \"q\" to quit."
+print "Hello"
