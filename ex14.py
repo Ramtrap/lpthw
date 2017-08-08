@@ -1,5 +1,7 @@
 from sys import argv
 
+print "ex14.py\n"
+
 script, user_name = argv
 prompt = '> '
 
